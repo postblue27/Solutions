@@ -1,0 +1,5 @@
+﻿  expTrees.cpp
+C:\Users\nazar\source\repos\expTrees\expTrees\expTrees.cpp(33,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nazar\source\repos\expTrees\expTrees\expTrees.cpp(109,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nazar\source\repos\expTrees\expTrees\expTrees.cpp(105): warning C4715:  'priority': not all control paths return a value
+  expTrees.vcxproj -> C:\Users\nazar\source\repos\expTrees\Debug\expTrees.exe
